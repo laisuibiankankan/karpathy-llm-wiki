@@ -25,6 +25,8 @@
 
 ## data（结构化数据）
 
-- [客户反馈数据库](data/customer-feedback/README.md) — 262条转向系统售后客诉反馈数据库（SQLite），含 LLM 分析结果，涵盖 HPS/EHPS/RAS 产品线 field/0km 客诉
+- [客户反馈数据库](../data/customer-feedback/README.md) — 262条转向系统售后客诉反馈数据库（SQLite），含 LLM 分析结果，涵盖 HPS/EHPS/RAS 产品线 field/0km 客诉
+
+> 注：customer-complaint 系列文章中引用的「案例N」编号，对应 `data/customer-feedback/database_customerFeedback.db` 中 `customer_feedback.序号` 字段，可直接用 SQL 查询对应的客户反馈详情和 LLM 诊断分析。
 
 Updated: 2026-07-17

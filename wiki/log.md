@@ -6,3 +6,4 @@
 ## [2026-07-17] ingest | GB 17675—2025 汽车转向系 基本要求
 ## [2026-07-17] ingest | 转向系统客诉分析 (customer-complaint)
 ## [2026-07-17] ingest | 客户反馈数据库 (data/customer-feedback/)
+## [2026-07-17] refactor | 客诉分析 wiki 案例引用 → 统一为案例N（可关联 data/ 数据库查询）
