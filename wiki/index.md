@@ -23,4 +23,8 @@
 - [圈数异常排查原理](steering/customer-complaint/圈数异常排查原理.md) — 圈数异常一句话排查原理
 - [液压系统油路问题](steering/customer-complaint/液压系统油路问题.md) — 液压系统/油路专项
 
+## data（结构化数据）
+
+- [客户反馈数据库](data/customer-feedback/README.md) — 262条转向系统售后客诉反馈数据库（SQLite），含 LLM 分析结果，涵盖 HPS/EHPS/RAS 产品线 field/0km 客诉
+
 Updated: 2026-07-17
